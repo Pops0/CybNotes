@@ -1,0 +1,4 @@
+
+- Burp Suite
+- BeEF
+- SQLmap

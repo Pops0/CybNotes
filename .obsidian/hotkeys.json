@@ -1,0 +1,21 @@
+{
+  "remotely-save:start-sync": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "workspace:close-window": [],
+  "copilot:trigger-quick-ask": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ]
+}

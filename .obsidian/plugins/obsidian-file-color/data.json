@@ -1,0 +1,122 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "qOLPoAj6CrIB5d1680q9l",
+      "name": "Orange",
+      "value": "#e26a6a"
+    },
+    {
+      "id": "jrkRkiq-PxuOIvRDSJtEQ",
+      "name": "Blue",
+      "value": "#7db6f2"
+    },
+    {
+      "id": "oFHYtjbp8k1yj6V0OOdX3",
+      "name": "Yellow",
+      "value": "#ecdd7e"
+    },
+    {
+      "id": "cX-XIwSJIznDgNWnd0NCW",
+      "name": "Green",
+      "value": "#9bf282"
+    },
+    {
+      "id": "0c8MBWwMiaB9Qqx7JsRjE",
+      "name": "Purple",
+      "value": "#9973f2"
+    },
+    {
+      "id": "DoMDxfVRe2d-oZLvb7EIK",
+      "name": "Pink",
+      "value": "#f38af5"
+    },
+    {
+      "id": "XWWVgrCvB7FKd4rPRlYUp",
+      "name": "Vibrant Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "cKriGdG2QNEpFe0aXVLvV",
+      "name": "Dark Red",
+      "value": "#5c0000"
+    },
+    {
+      "id": "FD1JRO-vfdGV0iqX8zI0P",
+      "name": "Bright Yellow",
+      "value": "#ffea00"
+    },
+    {
+      "id": "vTuAFukaQVmrM93zCLQ8o",
+      "name": "White like me",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Self_Cybersecurity",
+      "color": "qOLPoAj6CrIB5d1680q9l"
+    },
+    {
+      "path": "Self_Cybersecurity/WiFi/WiFi.md",
+      "color": "cX-XIwSJIznDgNWnd0NCW"
+    },
+    {
+      "path": "Self_Cybersecurity/SMB/SMB.md",
+      "color": "0c8MBWwMiaB9Qqx7JsRjE"
+    },
+    {
+      "path": "Self_Cybersecurity/Active Directory/Active Directory.md",
+      "color": "cKriGdG2QNEpFe0aXVLvV"
+    },
+    {
+      "path": "Self_Cybersecurity/SQL Injection/SQL Injection.md",
+      "color": "oFHYtjbp8k1yj6V0OOdX3"
+    },
+    {
+      "path": "TheArtOfHacking",
+      "color": "0c8MBWwMiaB9Qqx7JsRjE"
+    },
+    {
+      "path": "Self_Cybersecurity/Web Security/Web Security.md",
+      "color": "DoMDxfVRe2d-oZLvb7EIK"
+    },
+    {
+      "path": "Self_Cybersecurity/Exploits/Exploits.md",
+      "color": "XWWVgrCvB7FKd4rPRlYUp"
+    },
+    {
+      "path": "CheatSheetSeries",
+      "color": "jrkRkiq-PxuOIvRDSJtEQ"
+    },
+    {
+      "path": "Self_Cybersecurity/Active Directory",
+      "color": "cKriGdG2QNEpFe0aXVLvV"
+    },
+    {
+      "path": "Self_Cybersecurity/Exploits",
+      "color": "XWWVgrCvB7FKd4rPRlYUp"
+    },
+    {
+      "path": "Self_Cybersecurity/SQL Injection",
+      "color": "FD1JRO-vfdGV0iqX8zI0P"
+    },
+    {
+      "path": "Self_Cybersecurity/SMB",
+      "color": "0c8MBWwMiaB9Qqx7JsRjE"
+    },
+    {
+      "path": "Self_Cybersecurity/Web Security",
+      "color": "DoMDxfVRe2d-oZLvb7EIK"
+    },
+    {
+      "path": "Self_Cybersecurity/WiFi",
+      "color": "cX-XIwSJIznDgNWnd0NCW"
+    },
+    {
+      "path": "Self_Cybersecurity/Quiz notes",
+      "color": "vTuAFukaQVmrM93zCLQ8o"
+    }
+  ]
+}

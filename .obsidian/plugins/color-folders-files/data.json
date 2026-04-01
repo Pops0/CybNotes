@@ -1,0 +1,39 @@
+{
+  "styles": {
+    "TheArtOfHacking/TheArtOfHacking.md": {
+      "backgroundColor": "#7a42e0"
+    },
+    "Self_Cybersecurity": {
+      "textColor": "#9b4b4c"
+    },
+    "Self_Cybersecurity/Active Directory": {
+      "textColor": "#920c0e"
+    },
+    "Self_Cybersecurity/Exploits": {
+      "textColor": "#af0304"
+    },
+    "Self_Cybersecurity/SMB": {
+      "textColor": "#6a51a8"
+    },
+    "Self_Cybersecurity/SQL Injection": {
+      "textColor": "#e0cf10"
+    },
+    "Self_Cybersecurity/Web Security": {
+      "textColor": "#e67abe"
+    },
+    "Self_Cybersecurity/WiFi": {
+      "textColor": "#39fe6a"
+    },
+    "CheatSheetSeries": {
+      "textColor": "#55d6f7"
+    },
+    "Self_Cybersecurity/Mobile Security": {
+      "textColor": "#4c8bf0"
+    },
+    "Self_Cybersecurity/Tools": {
+      "textColor": "#cd0066"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}

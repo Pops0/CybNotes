@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1772822068512,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1772822016788,
+          "title": "Whole Graph",
+          "options": {
+            "collapse-filter": false,
+            "search": "",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": false,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [
+              {
+                "query": "file: Cybersecurity",
+                "color": {
+                  "a": 1,
+                  "rgb": 14701138
+                }
+              },
+              {
+                "query": "path: Active Directory",
+                "color": {
+                  "a": 1,
+                  "rgb": 16711680
+                }
+              },
+              {
+                "query": "path: SMB",
+                "color": {
+                  "a": 1,
+                  "rgb": 8242674
+                }
+              },
+              {
+                "query": "path: WiFi",
+                "color": {
+                  "a": 1,
+                  "rgb": 5564500
+                }
+              },
+              {
+                "query": "path: SQL Injection",
+                "color": {
+                  "a": 1,
+                  "rgb": 15725120
+                }
+              },
+              {
+                "query": "path:Readme",
+                "color": {
+                  "a": 1,
+                  "rgb": 16777215
+                }
+              },
+              {
+                "query": "path: Tools",
+                "color": {
+                  "a": 1,
+                  "rgb": 5395168
+                }
+              }
+            ],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": 0,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 1,
+            "repelStrength": 20,
+            "linkStrength": 1,
+            "linkDistance": 500,
+            "scale": 0.16348370567220344,
+            "close": true
+          }
+        },
+        {
+          "type": "folder",
+          "ctime": 1772822048880,
+          "path": "Self_Cybersecurity"
+        }
+      ],
+      "title": "Bookmarks"
+    }
+  ]
+}

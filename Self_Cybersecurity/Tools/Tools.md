@@ -6,6 +6,7 @@
   - [[Command and Control (C2)]]
   - [[Mobile Devices]]
   - [[On-Path]]
+  - [[Reconnaissance and Enumeration]]
   - [[Reverse Engineering]]
   - [[SQL]]
   - [[Tools]]

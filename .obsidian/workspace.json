@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self_Cybersecurity/Tools/Reconnaissance and Enumeration.md",
+                "file": "Self_Cybersecurity/Tools/Credential Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reconnaissance and Enumeration"
+              "title": "Credential Attacks"
             }
           }
         ]
@@ -197,6 +197,8 @@
   "active": "1fec151d43b0d4ee",
   "lastOpenFiles": [
     "Self_Cybersecurity/Tools/Tools.md",
+    "Self_Cybersecurity/Tools/Credential Attacks.md",
+    "Self_Cybersecurity/Tools/On-Path.md",
     "Self_Cybersecurity/Tools/Reconnaissance and Enumeration.md",
     "Self_Cybersecurity/Tools/Command and Control (C2).md",
     "Self_Cybersecurity/Tools/Virtual Machines.md",
@@ -209,7 +211,6 @@
     "Self_Cybersecurity/Tools/Web Application.md",
     "Self_Cybersecurity/Tools/SQL.md",
     "Self_Cybersecurity/Tools/Reverse Engineering.md",
-    "Self_Cybersecurity/Tools/On-Path.md",
     "Self_Cybersecurity/Tools/Bluetooth.md",
     "Self_Cybersecurity/Tools/APIs.md",
     "Self_Cybersecurity/Web Security/Web Application Tools.md",
@@ -221,7 +222,6 @@
     "Self_Cybersecurity/Exploits/Reverse Engineering.md",
     "Self_Cybersecurity/Exploits/Phishing.md",
     "Self_Cybersecurity/Exploits/Path or Directory Traversal.md",
-    "Self_Cybersecurity/Exploits/Fuzzing.md",
     "Self_Cybersecurity/Tools/Untitled",
     "Self_Cybersecurity/Tools/Virtual Machines",
     "Self_Cybersecurity/Tools",

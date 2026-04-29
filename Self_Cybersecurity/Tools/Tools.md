@@ -4,6 +4,7 @@
   - [[Bluetooth]]
   - [[Cloud Technology]]
   - [[Command and Control (C2)]]
+  - [[Credential Attacks]]
   - [[Mobile Devices]]
   - [[On-Path]]
   - [[Reconnaissance and Enumeration]]

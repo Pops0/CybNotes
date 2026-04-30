@@ -5,6 +5,8 @@
   - [[Cloud Technology]]
   - [[Command and Control (C2)]]
   - [[Credential Attacks]]
+  - [[Evasion and DNS Tunneling]]
+  - [[Exploitation Framworks]]
   - [[Mobile Devices]]
   - [[On-Path]]
   - [[Reconnaissance and Enumeration]]

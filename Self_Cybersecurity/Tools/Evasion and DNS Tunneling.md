@@ -1,0 +1,15 @@
+- Veil (evade antivirus checks and other security controls)
+- Tor (browser)
+- Proxychains
+- Encryption 
+- Encapsulation and tunneling using DNS and protocols such as NTP
+	- **DeNiSe:** This Python tool is for *tunneling TCP over DNS*. You can download DeNiSe from [_https://github.com/mdornseif/DeNiSe_](https://github.com/mdornseif/DeNiSe).
+	- **dns2tcp:** Written by Olivier Dembour and Nicolas Collignon in C, dns2tcp supports KEY and TXT request types. You can download dns2tcp from [_https://github.com/alex-sector/dns2tcp_](https://github.com/alex-sector/dns2tcp).
+	- **DNScapy:** Created by Pierre Bienaimé, this Python-based Scapy tool for packet generation even *supports SSH tunneling over DNS*, including a SOCKS proxy. You can download DNScapy from [_https://github.com/FedericoCeratto/dnscapy_](https://github.com/FedericoCeratto/dnscapy).
+	- **DNScat or DNScat-P:** This Java-based tool, created by Tadeusz Pietraszek, supports *bidirectional communication through DNS*. You can download DNScat from [_https://github.com/iagox86/dnscat2_](https://github.com/iagox86/dnscat2).
+	- **DNScat2 (DNScat-B):** Written by Ron Bowes, this tool runs on Linux, macOS, and Windows. DNScat2 *encodes DNS requests in NetBIOS encoding or hex encoding*. You can download DNScat2 from [_https://github.com/iagox86/dnscat2_](https://github.com/iagox86/dnscat2).
+	- **Heyoka:** This Windows-based tool written in C *supports bidirectional tunneling for data exfiltration*. You can download Heyoka from [_http://heyoka.sourceforge.net_](http://heyoka.sourceforge.net/).
+	- **iodine:** Written by Bjorn Andersson and Erik Ekman in C, iodine runs on Linux, macOS, and Windows, and *it can even be ported to Android*. You can download iodine from [_https://code.kryo.se/iodine/_](https://code.kryo.se/iodine/).
+	- **sods:** Originally written in Perl by Dan Kaminsky, this tool is used to set up an *SSH tunnel over DNS or for file transfer*. The requests are Base32 encoded, and responses are Base64-encoded TXT records. You can download sods from [_https://github.com/msantos/sods_](https://github.com/msantos/sods).
+	- **psudp:** Developed by Kenton Born, this tool injects data into existing DNS requests by modifying the IP/UDP header lengths. You can obtain additional information about psudp from [_https://pdfs.semanticscholar.org/0e28/637370748803bcefa5b89ce8b48cf0422adc.pdf_](https://pdfs.semanticscholar.org/0e28/637370748803bcefa5b89ce8b48cf0422adc.pdf).
+	- **Feederbot and Moto:** Attackers have used this *malware with DNS* to steal sensitive information from many organizations. You can obtain additional information about these tools from [_https://chrisdietri.ch/post/feederbot-botnet-using-dns-command-and-control/_](https://chrisdietri.ch/post/feederbot-botnet-using-dns-command-and-control/).

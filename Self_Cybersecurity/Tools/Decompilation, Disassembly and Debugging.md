@@ -1,0 +1,7 @@
+- The GNU Project Debugger (GDB)
+- Windows Debugger
+- OllyDbg
+- edb Debugger
+- Ghidra (reverse engineering / binary analysis)
+- Interactive Disassembler (IDA)
+- Objdump (linux cli disassembler)

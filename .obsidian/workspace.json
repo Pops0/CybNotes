@@ -25,10 +25,14 @@
             "id": "f8ac89e077a091e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Self_Cybersecurity/Tools/Cloud Tools.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cloud Tools"
             }
           }
         ],
@@ -207,8 +211,14 @@
   },
   "active": "f8ac89e077a091e8",
   "lastOpenFiles": [
-    "Self_Cybersecurity/Tools/Exploitation Framworks.md",
     "Self_Cybersecurity/Tools/Tools.md",
+    "Self_Cybersecurity/Tools/Cloud Tools.md",
+    "Self_Cybersecurity/Tools/Stegonograhpy.md",
+    "Self_Cybersecurity/Tools/Wireless Tools.md",
+    "Self_Cybersecurity/Tools/Common Tools for Software Assurance.md",
+    "Self_Cybersecurity/Tools/Forensics.md",
+    "Self_Cybersecurity/Tools/Decompilation, Disassembly and Debugging.md",
+    "Self_Cybersecurity/Tools/Exploitation Framworks.md",
     "Self_Cybersecurity/Tools/Evasion and DNS Tunneling.md",
     "Self_Cybersecurity/Tools/Credential Attacks.md",
     "Self_Cybersecurity/Tools/On-Path.md",
@@ -227,12 +237,6 @@
     "Self_Cybersecurity/Tools/Bluetooth.md",
     "Self_Cybersecurity/Tools/APIs.md",
     "Self_Cybersecurity/Web Security/Web Application Tools.md",
-    "Self_Cybersecurity/Web Security/WordPress.md",
-    "Self_Cybersecurity/Testing Containers (!)/Testing Containers (!).md",
-    "Self_Cybersecurity/Quiz notes/Quiz notes.md",
-    "Self_Cybersecurity/SQL Injection/SQL Tools.md",
-    "Self_Cybersecurity/Exploits/Session Hijacking.md",
-    "Self_Cybersecurity/Exploits/Reverse Engineering.md",
     "Self_Cybersecurity/Tools/Untitled",
     "Self_Cybersecurity/Tools/Virtual Machines",
     "Self_Cybersecurity/Tools",

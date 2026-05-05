@@ -1,0 +1,4 @@
+- **ScoutSuite:** This collection of tools can be used to reveal vulnerabilities in AWS, Azure, Google Cloud Platform, and other cloud platforms. You can download ScoutSuite from [_https://github.com/nccgroup/ScoutSuite_](https://github.com/nccgroup/ScoutSuite).
+- **CloudBrute:** You can download this cloud enumeration tool from [_https://github.com/0xsha/CloudBrute_](https://github.com/0xsha/CloudBrute).
+- **Pacu:** This is a framework for AWS exploitation that can be downloaded from [_https://github.com/RhinoSecurityLabs/pacu_](https://github.com/RhinoSecurityLabs/pacu).
+- **Cloud Custodian:** This cloud security, governance, and management tool can be downloaded from [_https://cloudcustodian.io_](https://cloudcustodian.io/).
